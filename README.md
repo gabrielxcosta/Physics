@@ -1,5 +1,9 @@
-# Physics Degree Repository - Federal University of Ouro Preto
+# Physics Graduation Repository
 
 ### Overview
 
-Welcome to the Physics Degree Repository for the Federal University of Ouro Preto! This repository serves as a comprehensive collection of code projects and assignments completed during the pursuit of a degree in Physics. It encompasses a wide range of disciplines and showcases the practical applications of theoretical concepts learned throughout the academic journey.
+Welcome to the Physics Graduation Projects Repository! This repository is dedicated to storing and showcasing projects and solutions implemented during my Bachelor's degree in Physics at the Federal University of Ouro Preto - MG.
+
+### Purpose
+
+The primary goal of this repository is to provide a centralized location for organizing and sharing the various projects undertaken as part of my academic journey. It serves as a portfolio of the practical applications and solutions developed in the field of Physics.
